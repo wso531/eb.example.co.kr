@@ -13,7 +13,7 @@ public class SampleController {
 
         ModelAndView mav = new ModelAndView();
         mav.addObject("message", "hello World");
-
+//
         return mav;
     }
 
